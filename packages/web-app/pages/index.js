@@ -1,4 +1,4 @@
-import foo from "foo";
+import foo from "@scoped/foo";
 import Bar from "@scoped/bar";
 
 export default function Home() {
